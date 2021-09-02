@@ -35,6 +35,7 @@ https://royrasugu.github.io/Githubsearch./
 3. There is a get started button there if one clicks it will redirect them to the search for username where one can search for their own or other people's usernames.
 4. After searching for it the username it will display the username of the github users, their information like bio, when they created their github accounts, their numberfollowers and who are following them etc
 5. It will also display to the right their repositories and one can see when they were last modified, which language used, and they can view this repositories on github when they click on view on github.
+6. There is also the repositories section where one searches for respective repositories and it will display the repositories accordingly eg If you search for delani studio it will find all repositories with the name of delani studio.
 
 ## Contact Information
 
