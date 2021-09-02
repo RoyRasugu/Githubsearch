@@ -1,27 +1,45 @@
-# Repos
+# Githubsearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+## Author
 
-## Development server
+Roy Rasugu
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+This is an angular CLI application that allows one to search for github users via their username or their repositories.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Live Page
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Setup and instruction installations
+* Open Terminal {Ctrl+Alt+T}
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* git clone ``` https://github.com/RoyRasugu/Githubsearch.git```
 
-## Running end-to-end tests
+* cd Githubserach
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* code . or atom . based on the text editor you prefer.
 
-## Further help
+## Technologies Used
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* HTML5
+* CSS
+* AngularCLI
+* Bootstrap
+
+## Dependecies
+
+1. As one opens the application you will view the navbar page where one will see the menu of home, search Username and search  for repository.
+2. If one clicks the Home section, they will be redirected to the homepage view where they will see a brief description of what the application does.
+3. There is a get started button there if one clicks it will redirect them to the search for username where one can search for their own or other people's usernames.
+4. After searching for it the username it will display the username of the github users, their information like bio, when they created their github accounts, their numberfollowers and who are following them etc
+5. It will also display to the right their repositories and one can see when they were last modified, which language used, and they can view this repositories on github when they click on view on github.
+
+## Contact Information
+
+You can reach me on my email [royratchizi@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2021 **Roy Rasugu**
