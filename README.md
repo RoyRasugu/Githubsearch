@@ -10,7 +10,7 @@ This is an angular CLI application that allows one to search for github users vi
 
 ## Live Page
 
-
+https://royrasugu.github.io/Githubsearch./
 
 ## Setup and instruction installations
 * Open Terminal {Ctrl+Alt+T}
